@@ -9,10 +9,6 @@
 
 #include "workwidget.h"
 
-namespace Ui {
-class MainWindow;
-}
-
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
